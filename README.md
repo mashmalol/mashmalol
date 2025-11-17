@@ -54,7 +54,7 @@ I run a micro **3D printing farm** and turn ideas into physical objects overnigh
 
 ---
 
-### ✨ Profile Stats (Optional visual section)
+### ✨ Profile Stats 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashmalol" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api?username=mashmalol&show_icons=true&theme=tokyonight" height="180"/>
