@@ -6,8 +6,8 @@ I'm **Mash** — 3D Designer, Web3 Dev & Creative Technologist.
 ### 🌐 Socials  
 <p align="left">
   <a href="https://github.com/mashmalol"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="https://instagram.com/mashmalol"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="https://instagram.com/3dchan3d"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://twitter.com/nanda_the_es"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
   <a href="https://t.me/"><img src="https://skillicons.dev/icons?i=telegram" height="40"/></a>
 </p>
 
