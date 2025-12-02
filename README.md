@@ -29,7 +29,7 @@ I'm **Mash** — 3D Designer, Web3 Dev & Creative Technologist.
 
 ### 🔭 Current Projects  
 - **Mash Protocol** — Tokenized real estate (ERC ecosystem / SBT verification)  
-- **3D NFC Products** — Business coins, pet accessories, QR/NFC identities  
+- **3D NFC Products** — Business coins, digital accessories, QR/NFC identities  
 - **On-chain visual metadata NFTs**  
 - Custom graphics and tokenization for **artists & creators**
 
@@ -43,13 +43,16 @@ I'm **Mash** — 3D Designer, Web3 Dev & Creative Technologist.
 ---
 
 ### ⚡ Fun Fact  
-I "run" a micro **3D printing farm** and turn ideas into physical objects overnight.
+I "run" a micro **3D printing farm** and turn contract ideas into physical objects on the blockchain overnight.
 
 ---
 
 ### 📫 Contact    
+
 📸 Instagram: **@3dchan3d**  
+
 🐙 GitHub: **mashmalol**
+
 🌶  White pepers: **https://mashprotocol4.wordpress.com**
 ---
 
